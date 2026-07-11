@@ -1,0 +1,8 @@
+/Users/jreibel/Downloads/emerald/build/CMakeFiles/emerald.dir
+/Users/jreibel/Downloads/emerald/build/CMakeFiles/test.dir
+/Users/jreibel/Downloads/emerald/build/CMakeFiles/edit_cache.dir
+/Users/jreibel/Downloads/emerald/build/CMakeFiles/rebuild_cache.dir
+/Users/jreibel/Downloads/emerald/build/CMakeFiles/list_install_components.dir
+/Users/jreibel/Downloads/emerald/build/CMakeFiles/install.dir
+/Users/jreibel/Downloads/emerald/build/CMakeFiles/install/local.dir
+/Users/jreibel/Downloads/emerald/build/CMakeFiles/install/strip.dir
