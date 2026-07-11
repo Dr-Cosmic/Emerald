@@ -1,0 +1,11 @@
+# Helper module for test_imports (uses the .emerald extension).
+fn square(v) { return v * v; }
+fn cube(v) { return v * v * v; }
+int magic = 42;
+string greeting = "hello from testmod";
+fn scaledMagic(factor) { return magic * factor; }
+class Point(px, py) {
+    float x = px;
+    float y = py;
+    fn dist() { return sqrt(x ** 2 + y ** 2); }
+}
